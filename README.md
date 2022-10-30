@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 - software: Python 3.9.12 , VS CODE 1.38.1
 
 ## Summary
-Election Results
+### Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
