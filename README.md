@@ -39,5 +39,19 @@ Winning Percentage: 73.8%
 
 ## Challenge Overview
 
+Colorado Board of Elections has requested help in completing an election audit of a recent local congressional election.
+
+In the intiial task, the objectives were:
+1. Calculate the total number of votes cast. 
+2. Get a complete list of candidates who received votes. 
+3. Calculate the total number of votes each candidate received. 
+4. Calculate the percentage of votes each candidate won. 
+5. Determine the winner of the election based on popular vote.
+
+The Board reached out again to do some follow up work to:
+
+1. Calculate the voter turnout for each county.
+2. Calculate the percentage of votes each county contributed to the election.
+3. Determine which county had the largest turnout.
 
 ## Challenge Summary
